@@ -4,10 +4,9 @@
 - 🌱 Estudando Sistema de Informação, Python Nibel básico.
 - 👯 Projetos Reais
 
-
 <div>
 <a href="https://beacons.ai/Jefferson-Linhares97">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jefferson-Linhares97&theme=gruvbox&show_icons=true&hide_border=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefferson-Linhares97&theme=vue&show_icons=true&hide_border=true&count_private=true">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson-Linhares97&theme=gruvbox&show_icons=true&hide_border=true&layout=compact"/>
 </a>
 </div>
